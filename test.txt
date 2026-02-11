@@ -1,1 +1,1 @@
-city: kerela
+city:kerela
